@@ -1,0 +1,20 @@
+-----------------
++ Exam           +
+-----------------
+- studentID      : String
+- studentName    : String
+- level          : String
+- scores         : List<Integer>   
+-----------------
++ getStudentID() : String
++ getStudentName() : String
++ getLevel()      : String
++ getScores()     : List<Integer>
++ setScores(      +
+  scores         : List<Integer>
+)                 
++ calculateTotalScore() : int
++ calculateAverageScore() : float
++ findMaxScore()      : int
++ toString()         : String
+-----------------v
